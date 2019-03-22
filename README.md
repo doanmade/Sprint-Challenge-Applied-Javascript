@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+ - .document - the dom is what allows us to use javascript to control and work
+
 2. What is an event?
+
+- an event is when something happenes a mouse click, hover, key press, closing the window (really any action )
 
 3. What is an event listener?
 
+- its code that listens for when an event happens so we can then apply a reaction. 
+
 4. Why would we convert a NodeList into an Array?
 
+- cause you didn't want to use querrySelectorAll haha  so we have more control over our data and ease of access
+
 5. What is a component?
+
+Components are sections of code that we can reuse over and over for build and style your page
 
 ### Git Set up
 
