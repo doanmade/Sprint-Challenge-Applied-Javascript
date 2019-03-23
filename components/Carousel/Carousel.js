@@ -11,4 +11,4 @@ let carousel = document.querySelector();
     4. Those buttons are gonna need some click handlers.
     5. Think of how you would animate this compoennt. Make the cards slide in and out, or fade. It's up to you!
     6. Have fun!
-*/
+*/ 
